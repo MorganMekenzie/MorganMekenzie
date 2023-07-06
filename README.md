@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorganMekenzie
 - 👀 I’m interested in ... traveling
-- 🌱 I’m currently learning ... AWS and cloud practitioner basics
+- 🌱 I’m currently learning ... GCP and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... morgan.middleton@cloudreach.com
 
